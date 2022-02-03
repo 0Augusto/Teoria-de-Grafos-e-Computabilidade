@@ -1,0 +1,2 @@
+Conjunto Independente: Em um grafo não dirigido, é um conjunto de vértices dois a dois não adjacentes (que não há uma aresta conectando eles). Então, um conjunto S de vértices é independente se, nenhuma aresta tem ambas as pontas em S.
+--> Problema do Conjunto Independente Máximo: É difícil, porém, com um algoritmo de"força bruta" para examinar 2^n subconjuntos resolve. Exemplo que é resolvido por esse caminho, é encontrar o número máximo de damas possíveis em um tabuleiro (8x8) de xadrez sem que uma ataque a outra, resposta, 8 damas é o máximo.
