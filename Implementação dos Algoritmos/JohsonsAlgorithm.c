@@ -169,7 +169,8 @@ int main() {
     return 0;
 }
 
-/*A complexidade do Algoritmo de Johnson é O(V² log V + V E
+/*
+    A complexidade do Algoritmo de Johnson é O(V² log V + V E
 
 Algoritmo Híbrido de Bellman-Ford e Dijkstra (Johnson)
 Sim, existe um algoritmo híbrido que combina características do Bellman-Ford e do Dijkstra: o Algoritmo de Johnson. Este algoritmo é usado para encontrar os caminhos mais curtos entre todos os pares de vértices em um grafo dirigido com arestas de peso negativo (mas sem ciclos negativos).
